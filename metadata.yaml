@@ -1,5 +1,8 @@
 _repo: Tom-Watson-s-Magazine-Vol-I-No-1-March-1905_62797
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62797-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48641
     wikipedia: https://en.wikipedia.org/wiki/Thomas_E._Watson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62797#Tom-Watson-s-Magazine-Vol-I-No-1-March-1905
 gutenberg_issued: '2020-07-31'
 gutenberg_type: Text
 identifiers:
